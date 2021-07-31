@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://guild.js.org"><img src="https://guild.js.org/static/logo.png" width="546" alt="guild.js" id="gjs-logo" /></a>
+    <a href="https://guild.js.org"><img src="https://i.imgur.com/jO3TXss.png" width="546" alt="guild.js" id="gjs-logo" /></a>
   </p>
   <br />
   <p>
